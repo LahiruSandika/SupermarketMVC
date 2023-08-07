@@ -12,10 +12,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import supermarket.mvc.db.DBConnection;
 
-/**
- *
- * @author ravin
- */
+
 public class OrderController {
     public String placeOrder(OrderModel orderModel, ArrayList<OrderDeatailModel> orderDeatailModels) throws SQLException{
         Connection connection = DBConnection.getInstance().getConnection();

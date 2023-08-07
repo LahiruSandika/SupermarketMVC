@@ -16,7 +16,7 @@ import supermarket.mvc.model.ItemModel;
 
 /**
  *
- * @author ravin
+ * 
  */
 public class ItemView extends javax.swing.JFrame {
     private ItemController itemController;

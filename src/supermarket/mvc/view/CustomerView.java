@@ -14,8 +14,6 @@ import supermarket.mvc.controller.CustomerController;
 import supermarket.mvc.model.CustomerModel;
 
 /**
- *
- * @author ravin
  */
 public class CustomerView extends javax.swing.JFrame {
     private CustomerController customerController;

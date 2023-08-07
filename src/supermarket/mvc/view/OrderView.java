@@ -22,7 +22,7 @@ import supermarket.mvc.model.OrderModel;
 
 /**
  *
- * @author ravin
+ *
  */
 public class OrderView extends javax.swing.JFrame {
     private CustomerController customerController;
